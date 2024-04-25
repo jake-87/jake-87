@@ -4,7 +4,7 @@ I work on:
 
 - khasmc: A functional language for the next generation
 - project-garden: Small projects to learn
-- various other fun projects
+- various other projects
 
 I enjoy:
 - compilers
