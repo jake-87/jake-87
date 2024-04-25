@@ -1,4 +1,17 @@
-### Hi there 👋
+### hey hey
+
+I work on:
+
+- khasmc: A functional language for the next generation
+- project-garden: Small projects to learn
+- various other fun projects
+
+I enjoy:
+- compilers
+- type systems
+- dependent types
+- HoTT/HOTT/similar higher type theories
+- formal verification
 
 <!--
 **jake-87/jake-87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
