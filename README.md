@@ -2,7 +2,7 @@
 
 I work on:
 
-- khasmc: A functional language for the next generation
+- khasmc: A functional language emphasising easy problem solving
 - project-garden: Small projects to learn
 - various other projects
 
