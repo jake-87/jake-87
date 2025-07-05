@@ -10,7 +10,7 @@ I enjoy:
 - compilers
 - type systems
 - dependent types
-- HoTT/HOTT/similar higher type theories
+- HoTT/HOTT/similar type theory nonsense
 - formal verification
 
 I am:
